@@ -62,11 +62,11 @@ karbytes_ultra_2024_edition_16: // folder contains exactly 12 files (approximate
 
     - KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_22-main // 585.3 megabytes
+    - KARLINA_OBJECT_extension_pack_22-main.zip // 585.3 megabytes
 
-    - KARLINA_OBJECT_extension_pack_23-main // 161.9 megabytes
+    - KARLINA_OBJECT_extension_pack_23-main.zip // 161.9 megabytes
 
-    - KARLINA_OBJECT_extension_pack_24-main // ?? megabytes
+    - KARLINA_OBJECT_extension_pack_24-main.zip // ?? megabytes
 
     - KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
