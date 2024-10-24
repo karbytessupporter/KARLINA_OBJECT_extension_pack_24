@@ -77,3 +77,21 @@ video_url: https://www.youtube.com/watch?v=67Y5dRyX4mM
 On 23_OCTOBER_2024 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_23october2024/
+
+* * *
+
+On 23_OCTOBER_2024 at approximately 10:30PM Pacific Standard Time, karbytes shared the following karbytes-created plain-text quote as a social media post first on karbytes' Bluesky dot Com page and then on karbytes' Twitter dot Com page (as the aforementioned plain-text quote and as a hyperlink to the aforementioned Bluesky dot Com post and as a screenshot image to that Bluesky dot Com post (and a hyperlink to that screenshot image is displayed below)):
+
+plaintext_quote: "A crisis is a terrible thing to waste." - anonymous
+
+bluesky_post_link: https://bsky.app/profile/karbytes.bsky.social/post/3l7ab4vmkxw2g
+
+twitter_post_link: https://x.com/karbytes/status/1849313601707798902
+
+screenshot_image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/twitter_karbytes_quote_post_screenshot_23october2024.png
+
+* * *
+
+On 23_OCTOBER_2024 at approximately 10:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+https://www.popsci.com/environment/animal-death-rituals/
