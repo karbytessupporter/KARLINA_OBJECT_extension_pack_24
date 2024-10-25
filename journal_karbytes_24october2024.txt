@@ -1,36 +1,43 @@
-// journal_karbytes_24october2024.txt
+/**
+ * file: journal_karbytes_24october2024.txt
+ * type: plain-text
+ * date: 24_OCTOBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I do not really celibate the holidays.
 
 Instead, I treat every day as a day which ought to be spent taking care of unfinished business while minimizing the waste of time, energy, and other resources whose availability is finite.
 
-I do not really have physical nor emotional intimacy with any person other than myself. 
+I do not really have physical nor emotional intimacy with any person other than myself.
 
 I could hence be accurately described as autosexual rather than merely asexual given that I occasionally masturbate (while being otherwise voluntarily celibate and voluntarily friendless (though I do consider myself as having people other than myself in my life who I regard as family members or acquaintances)).
 
 Lastly, after spending approximately three consecutive days in the Castro Valley and Dublin region where my legal residence is located, I have come to the conclusion that I and my neighbors would be happiest with me keeping the curtains of my bedroom window permanently drawn shut instead or leaving them fully open as I have been doing.
 
 (I started drafting this note while hiking downhill from the location along Ramage Peak trail where I recorded and uploaded to GitHub the following photographic images and panoramic video of what I assume is the highest elevation point along that trail (and the GitHub links to those raw files are available below this paragraph)):
-image_0: [url]
 
-image_1: [url]
+image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/northeast_of_room_of_karbytes_24oct2024_p0.jpg
 
-video: [url]
+image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/northeast_of_room_of_karbytes_24oct2024_p1.jpg
 
-* * *
-
-On second thought, I decided to keep my room's window left fully exposed to the outside world instead of cloaked by hanging pieces of cloth because I think it looks much more beautiful, serene, and sanity-inducing for it to stay open than cloaked. After all, relative to seemingly most other people who live in my country, I have essentially nothing to hide (and hence volunteer to make my existence almost entirely accessible to the public (aside from passwords, bank accounts, legal identification records, and information which might obstruct my progress towards my goals if shared with a wider audience than just myself and the vigils of the deep state (et cetera) who I assume could be watching my every thought, movement, and sensation)).
+video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/northeast_of_room_of_karbytes_24oct2024_video.mp4
 
 * * *
 
-After I got home approximately two hours after sunset from the hike I went on to the high point on Ramage Peak trail (which I captured a Google Earth three-dimensional map of in the last of the following image links on this web page), I saw that the outdoor Halloween lights at my residence were not turned on. So I turned them on, took some photographs of them, and uploaded them to GitHub. 
+On second thought, I decided to keep my room’s window left fully exposed to the outside world instead of cloaked by hanging pieces of cloth because I think it looks much more beautiful, serene, and sanity-inducing for it to stay open than cloaked. After all, relative to seemingly most other people who live in my country, I have essentially nothing to hide (and hence volunteer to make my existence almost entirely accessible to the public (aside from passwords, bank accounts, legal identification records, and information which might obstruct my progress towards my goals if shared with a wider audience than just myself and the vigils of the deep state (et cetera) who I assume could be watching my every thought, movement, and sensation)).
 
-(I did not mean to suggest that I do not appreciate holiday festivities and decorations (especially Hallow's Eve) earlier in this note. Instead, I meant to suggest that, if I lived entirely on my own instead of in a residence I share with multiple other people, I most likely would not decorate my living space for special occasions due to the fact that I have a "fetish" for keeping my personal living quarters minimalist, industrial-looking, and a bit deliberately creepy/macabre/mysterious. I also did not mean to suggest that I am entirely opposed to having friends. I just think I really am happiest and most productive as a "modern hermit" (i.e. someone who lives close to major cities and frequently goes into metropolitan areas to shop and hang out but not really to socialize outside of brief casual exchanges)).
+* * *
 
-image_0: [url]
+After I got home approximately two hours after sunset from the hike I went on to the high point on Ramage Peak trail (which I captured a Google Earth three-dimensional map of in the last of the following image links on this web page), I saw that the outdoor Halloween lights at my residence were not turned on. So I turned them on, took some photographs of them, and uploaded them to GitHub.
 
-image_2: [url]
+(I did not mean to suggest that I do not appreciate holiday festivities and decorations (especially Hallow’s Eve) earlier in this note. Instead, I meant to suggest that, if I lived entirely on my own instead of in a residence I share with multiple other people, I most likely would not decorate my living space for special occasions due to the fact that I have a “fetish” for keeping my personal living quarters minimalist, industrial-looking, and a bit deliberately creepy/macabre/mysterious. I also did not mean to suggest that I am entirely opposed to having friends. I just think I really am happiest and most productive as a “modern hermit” (i.e. someone who lives close to major cities and frequently goes into metropolitan areas to shop and hang out but not really to socialize outside of brief casual exchanges)).
 
-image_3: [url]
+image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/residence_of_karbytes_halloween_decor_24oct2024_p0.jpg
 
-web_page: [url]
+image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/residence_of_karbytes_halloween_decor_24oct2024_p1.jpg
+
+image_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/residence_of_karbytes_halloween_decor_24oct2024_p2.jpg
+
+web_page: https://karbytesforlifeblog.wordpress.com/map_of_karbytes_home_environment/
