@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_24october2024.txt
  * type: plain-text
- * date: 24_OCTOBER_2024
+ * date: 25_OCTOBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -41,3 +41,27 @@ image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_ext
 image_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/residence_of_karbytes_halloween_decor_24oct2024_p2.jpg
 
 web_page: https://karbytesforlifeblog.wordpress.com/map_of_karbytes_home_environment/
+
+* * *
+
+Immediately after I wrote in this note (approximately thirteen hours ago) that I prefer my personal living space to have macabre or creepy elements, I intuitively felt that something was amiss about that description. I decided to keep that description unmentioned and “out of date” until now because, last night when I wrote that part of this note, I was eager to “hurry up” and get this note published and shared on my social media profiles.
+
+Rather than say that I want my personal living space to have deliberately unsettling elements (which is more exhibitionist and reaction-provoking than what is genuine to my preferences and personality), I would say that I want my personal living space to contain what I regard as personally sentimental or nostalgic elements (which remind me of fun or meaningful experiences I had or subject matter which I am deeply intrigued by and interested in). Without such elements, my living space would be devoid of what makes it feel like my home in particular; the home of karbytes.
+
+For example, on the west-facing wall of my room, there is a makeshift poster made from a recycled reusable shopping bag from the Sunnyvale Whole Foods Market depicting the Golden Gate Bridge against a pale blue sky, the San Francisco Bay shoreline seamlessly blending in with the shallow rocky waters, and the words in white sans-serif “BAY AREA”. To the right of that poster is a small rounded white piece of paper with my handwriting on it displaying the words “Karlina Object dot WordPress dot Com”. Above that piece of paper is a circular mandala hologram sticker which came with an order of psilomethoxin capsules I ordered from Church of the Sacred Synthesis. Links to images depicting the interior of my room are listed below:
+
+image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_09october2024_p0.jpg
+
+image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_09october2024_p1.jpg
+
+image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_09october2024_p2.jpg
+
+image_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_23october2024_p0.jpg
+
+image_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_23october2024_p1.jpg
+
+image_5: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/room_of_karbytes_closet_21october2024.jpg
+
+image_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/mdiscs_karbytes2024ue16_created_%26_tested_22oct2024.jpg
+
+image_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/mdisc_karbytes_complete_set_22october2024.jpg 
