@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 24_OCTOBER_2024
+ * date: 25_OCTOBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -107,3 +107,21 @@ https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_24october2024/
 On 24_OCTOBER_2024 at approximately 12:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
 
 https://www.visualcapitalist.com/cost-of-the-american-dream-in-2024/
+
+* * *
+
+On 24_OCTOBER_2024 at approximately 11:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_24october2024/
+
+* * *
+
+On 25_OCTOBER_2024 at approximately 12:00AM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "Escaping the Memory Hole"
+
+video_channel_title: "Internet Archive"
+
+video_release_date: 23_OCTOBER_2024
+
+video_url: https://www.youtube.com/live/_w819qEfC_A
