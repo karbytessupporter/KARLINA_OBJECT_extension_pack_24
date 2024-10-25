@@ -8,7 +8,9 @@
 
 To Whom It May Concern:
 
-Within the past 24 hours I decided to implement a new content management policy of setting each one of my GitHub repositories to read-only (i.e. archive) mode immediately after I make an update to that GitHub repository. Then, when I want to make another update to that GitHub repository, I unarchive that repository before making the update and then proceed to make that update before, again, setting that GitHub repository to read-only mode. 
+Within the past 24 hours I decided to implement a new content management policy of setting each one of my GitHub repositories to read-only (i.e. archive) mode immediately after I make an update to that GitHub repository. Then, when (and if) I want to make another update to that particular GitHub repository, I shall (a) unarchive that repository before making the update to that GitHub repository and then (b) proceed to make that update before, again, (c) setting that GitHub repository to read-only mode.
+
+(An example of what an archived GitHub repository looks like is available as a screenshot image at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_24/main/example_read_only_github_repository_25october2024.png).
 
 The purpose of implementing the aforementioned new policy is to help me keep track of when (i.e. what day within a particular month and year (e.g. 25_OCTOBER_2024)) I most recently updated a particular karbytes-created (and hence karbytes-owned) GitHub repository.
 
