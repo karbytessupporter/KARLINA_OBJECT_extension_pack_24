@@ -1,4 +1,14 @@
-// append_journal_karbytes_26october2024.txt
+/**
+ * file: journal_karbytes_27october2024.txt
+ * type: plain-text
+ * date: 27_OCTOBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The journal content featured below this paragraph was originally intended by its author to be appended to the web page featured at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/journal_karbytes_26october2024/
+
+* * *
 
 This part of this note was drafted approximately three hours after I published this web page (and wrote the content on this web page which is above this paragraph). I wrote it while riding the BART trains from Dublin/Pleasanton back to Warm Springs (South Fremont) at approximately 9:00PM Pacific Standard Time.
 
