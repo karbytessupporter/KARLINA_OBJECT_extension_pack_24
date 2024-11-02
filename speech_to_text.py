@@ -37,7 +37,7 @@ def mp3_to_text():
         except sr.UnknownValueError:
             print("Could not understand audio")
         except sr.RequestError as e:
-            print(f"Could not request results from Google Speech Recognition service; {e}")
+            print(f"Could not request results from Speech Recognition service; {e}")
 
 if __name__ == "__main__":
     mp3_to_text()
