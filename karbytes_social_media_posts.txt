@@ -249,3 +249,15 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_31october2024/
 On 01_NOVEMBER_2024 at approximately 3:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_01november2024/
+
+* * *
+
+On 01_NOVEMBER_2024 at approximately 9:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "The (Simple) Theory That Explains Everything | Neil Turok"
+
+video_channel_title: "Theories of Everything with Curt Jaimungal"
+
+video_release_date: 23_APRIL_2024
+
+video_url: https://www.youtube.com/watch?v=ZUp9x44N3uE
