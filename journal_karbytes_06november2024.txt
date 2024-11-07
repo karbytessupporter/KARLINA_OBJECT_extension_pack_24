@@ -35,3 +35,5 @@ karbytes_0: "Yes, but if you think they are in danger of physically harming them
 karbytes_1: "Okay. One last thing: sometimes I think other people want me to complain or express weakness in some way. I generally do not feel comfortable doing that. What do you reckon I do?"
 
 karbytes_0: "Well, if someone wants you to be a little bitch (like they really are inside or out), then I suggest that you perhaps sarcastically feign that you are not coping as effectively as you really are just to get them off your back (but do not be too obvious that you are merely acting 'human' for their sake)."
+
+karbytes: "I think it is time for me (the master of this website) to intervene. No, karbytes_0 does not have to feign weakness. That does not make the bullies any less cruel to you. It is better to be too much of a 'real man' for them to want to disrespect. Who you really are inside is an exemplary example of what it means to be a man on the path towards self-actualization (which is a path whose length is infinitely long but where each genuine step forward along that path is genuinely moving closer to embodying superhuman ideals)."
