@@ -1,10 +1,16 @@
 /**
  * file: journal_karbytes_03november2024.txt
  * type: plain-text
- * date: 03_NOVEMBER_2024
+ * date: 07_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
+I updated each of the C++ and Python programming tutorial web pages of the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com on 06_NOVEMBER_2024 and 07_NOVEMBER_2024 as of 4:00AM Pacific Standard Time on 07_NOVEMBER_2024. Hence, I placed each of those programming tutorial web pages’ respective HTML source code file in the GitHub repository associated with the “micro directory” named raw_github_files_directory_KARLINA_OBJECT_extension_pack_24 on 07_NOVEMBER_2024 as of 4:00AM Pacific Standard Time on 07_NOVEMBER_2024.
+
+The content written in this note which is below this paragraph was unchanged since it was last modified on 03_NOVEMBER_2024. The paragraph above this paragraph in this note was written on 07_NOVEMBER_2024.
+
+* * *
 
 I would say that the previous “micro directory” of my blog was akin to completing the construction of my house and that this “micro directory” of my blog is akin to making that house into a home.
 
