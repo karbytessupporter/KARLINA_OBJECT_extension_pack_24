@@ -1,4 +1,10 @@
-t
+/**
+ * file: journal_karbytes_08november2024.txt
+ * type: plain-text
+ * date: 08_NOVEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 karbytes_0: "The more happy a human is, the less motivated that human is to cause some human other than itself to suffer more than it currently is."
 
@@ -22,3 +28,7 @@ Finally, I thought I should mention that I heard several of the "monkey men" say
 Those people (the males and the females but especially the males) are aggressive attention whores which seriously inconvenience me and which almost always get away with such insolence. I am documenting this shit to let it be known to the general public that I know such antics are taking place and commonplace (at least at this time and place in human civilization).
 
 Thankfully, I know about and am involved with humans who are what I deem to be much higher quality than the degenerates I mentioned in this note. That is the main reason I am more happy than sad. Such people (who I say imbue my life with perhaps most of its happiness) are passionately devoted to the same interests and causes I am (especially technology, science, philosophy, and ideas about what makes a utopian civilization).
+
+* * *
+
+Last night while I was browsing my Instagram feed, I noticed a video which apparently featured Donald Trump's voice disclosing his secrets for success in a short motivational video (but the voice seemed artificial-intelligence-generated to me). I could not disagree with most if not all of the tenets disclosed in that video (which I thought were refreshingly candid and straightforward about the human condition), especially the premise that people (i.e. humans) are generally not happy for the success of other humans and that people often like to sabotage other people's success (and "Trump's" insinuation was that it is a good idea to not celebrate one's victories or good fortune too publicly).
